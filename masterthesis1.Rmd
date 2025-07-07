@@ -1,0 +1,36 @@
+---
+title: "Master's thesis"
+author: "Simon Sever"
+date: "July 7, 2025"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+
+## Import data
+
+
+
+# Data Visualization
+
+
+
+## Summary Statistics
+
+
+## Inline Code
+
+You can also include inline R code. For example, the mean of x is `r mean(x)`.
+
+### Mathematical Equations
+
+
+
+## Conclusion
+
+
